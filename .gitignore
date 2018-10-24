@@ -105,3 +105,4 @@ fabric.properties
 venv/
 
 # End of https://www.gitignore.io/api/pycharm+all
+src/MUSIC/music.wav
